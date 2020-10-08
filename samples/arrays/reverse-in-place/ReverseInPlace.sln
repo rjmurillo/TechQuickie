@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInPlace", "src\ReverseInPlace.csproj", "{504F7575-E1B6-4CC5-A9D2-636E0D531764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "test\UnitTests\UnitTests.csproj", "{5E38B7FE-7498-469C-AA39-55EFEEA1FB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504F7575-E1B6-4CC5-A9D2-636E0D531764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504F7575-E1B6-4CC5-A9D2-636E0D531764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504F7575-E1B6-4CC5-A9D2-636E0D531764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504F7575-E1B6-4CC5-A9D2-636E0D531764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E38B7FE-7498-469C-AA39-55EFEEA1FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E38B7FE-7498-469C-AA39-55EFEEA1FB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E38B7FE-7498-469C-AA39-55EFEEA1FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E38B7FE-7498-469C-AA39-55EFEEA1FB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEB637F-FCCE-4771-A668-AF5C9115D8BE}
+	EndGlobalSection
+EndGlobal
